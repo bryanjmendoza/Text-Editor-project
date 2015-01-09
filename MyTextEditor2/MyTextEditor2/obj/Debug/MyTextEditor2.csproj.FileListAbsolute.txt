@@ -1,0 +1,8 @@
+c:\users\bryan\documents\visual studio 2013\Projects\MyTextEditor2\MyTextEditor2\bin\Debug\MyTextEditor2.exe.config
+c:\users\bryan\documents\visual studio 2013\Projects\MyTextEditor2\MyTextEditor2\bin\Debug\MyTextEditor2.exe
+c:\users\bryan\documents\visual studio 2013\Projects\MyTextEditor2\MyTextEditor2\bin\Debug\MyTextEditor2.pdb
+c:\users\bryan\documents\visual studio 2013\Projects\MyTextEditor2\MyTextEditor2\obj\Debug\MyTextEditor2.Form1.resources
+c:\users\bryan\documents\visual studio 2013\Projects\MyTextEditor2\MyTextEditor2\obj\Debug\MyTextEditor2.Properties.Resources.resources
+c:\users\bryan\documents\visual studio 2013\Projects\MyTextEditor2\MyTextEditor2\obj\Debug\MyTextEditor2.csproj.GenerateResource.Cache
+c:\users\bryan\documents\visual studio 2013\Projects\MyTextEditor2\MyTextEditor2\obj\Debug\MyTextEditor2.exe
+c:\users\bryan\documents\visual studio 2013\Projects\MyTextEditor2\MyTextEditor2\obj\Debug\MyTextEditor2.pdb
